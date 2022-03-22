@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Igor</h1>
+## Hey 👋, I'm Igor
 
-<p align="center">
-<a href="https://twitter.com/igorfarau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="igorfarau" height="30" width="40" /></a>
-<a href="https://instagram.com/igorfarau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igorfarau" height="30" width="40" /></a>
-</p>
+
+## Contact
+<a href="https://twitter.com/igorfarau" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://instagram.com/igorfarau" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 
 
