@@ -1,10 +1,7 @@
 ## Hey 👋, I'm Igor
 
-
 <a href="https://twitter.com/igorfarau" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://instagram.com/igorfarau" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
-### 🌱 I'm currently learning Phyton
 
 
 <!---
